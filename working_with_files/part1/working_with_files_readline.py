@@ -14,4 +14,6 @@ while line:
 
     line = f.readline()
 
+# выводим результат в консоль
+print(result)
 f.close()
